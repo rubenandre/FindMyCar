@@ -1,0 +1,4 @@
+#Sat Jun 22 23:13:59 BST 2019
+base.0=E\:\\Projetos\\Flutter\\FindMyCar\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
